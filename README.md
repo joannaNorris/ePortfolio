@@ -1,4 +1,4 @@
 # ePortfolio
-Personal ePortfolio gitHub Pages
+Personal ePortfolio gitHub Pages by Joanna Norris
 
-##https://joannanorris.github.io/ePortfolio/
+https://joannanorris.github.io/ePortfolio/
