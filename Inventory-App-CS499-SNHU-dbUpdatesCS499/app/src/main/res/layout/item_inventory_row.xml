@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/tvItemName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Item Name"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvItemSku"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="SKU: 0000"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvItemQty" />
+
+    <TextView
+        android:id="@+id/tvItemQty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Qty: 0"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvItemName" />
+
+    <Button
+        android:id="@+id/btnDeleteItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="4dp"
+        android:backgroundTint="#D32F2F"
+        android:text="@string/delete"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnEditQty"
+        android:layout_width="84dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="4dp"
+        android:backgroundTint="@color/purple_500"
+        android:onClick="onAddItemClicked"
+        android:text="@string/edit"
+        app:layout_constraintEnd_toStartOf="@id/btnDeleteItem"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnViewItem"
+        android:layout_width="84dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="4dp"
+        android:backgroundTint="#00BCD4"
+        android:onClick="onViewClicked"
+        android:text="@string/view"
+        app:layout_constraintEnd_toStartOf="@id/btnEditQty"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

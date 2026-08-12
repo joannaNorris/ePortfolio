@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">JoannaNorrisInventoryApp</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="inventory">Inventory</string>
+    <string name="add">Add</string>
+    <string name="item_name">Item Name</string>
+    <string name="qty">Qty</string>
+    <string name="sku">SKU</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Incorrect username or password"</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="logout">Logout</string>
+    <string name="add_item">Add Item</string>
+    <string name="Description">Description</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="new_category">New category</string>
+    <string name="supplier_contact">Supplier contact</string>
+    <string name="add_supplier">Add Supplier</string>
+    <string name="new_supplier">New supplier</string>
+    <string name="view">View</string>
+</resources>
