@@ -6,7 +6,9 @@ title: Joanna Norris ePortfolio
 
 Welcome to my Computer Science Capstone ePortfolio.
 
-#### Professional Self-Assessment
+<h4 id="professional-self-assessment">Professional Self-Assessment</h4>
+
+***
 
    Completing my Bachelor of Science in Computer Science has given me a clearer understanding of both the type of developer I want to become and the work I enjoy doing. Throughout the program, I explored software development, databases, algorithms and data structures, cybersecurity, mobile development, and computational graphics. These experiences helped me discover that I am most interested in the intersection of technology and the user. I enjoy understanding and making an application work behind the scenes; however, I am particularly drawn to creating interfaces that are intuitive, functional, and enjoyable to use. As I begin my career, I am interested in opportunities in UI/UX design and development, front-end development, or full-stack web development. 
 
@@ -22,7 +24,9 @@ Welcome to my Computer Science Capstone ePortfolio.
 
    As I begin my career, I want to continue developing as a well-rounded software professional while building deeper skills in UI/UX, front-end, and full-stack development. I am interested in creating software that is not only technically sound but also accessible, intuitive, and useful. My degree has provided the foundation, and I plan to continue learning and practicing as technology evolves. My goal is to combine my technical skills with my interest in user-centered design to create software that works well and makes sense to the people using it. 
 
-#### Artifacts
+<h4 id="artifacts">Artifacts</h4>
+
+***
 
 - **Software Design & Engineering**
 
@@ -62,7 +66,10 @@ Artifact 3: Software Design and Engineering CS 360 Mobile Inventory Application.
   
   The enhancement process taught me how interconnected the different parts of an application are. A change to the database often required corresponding changes to the database helper, adapter, activity, and user interface. One of the biggest challenges was troubleshooting SQLite and cursor errors. I encountered several crashes caused by column names and SQL queries that did not return the columns expected by the adapter. These errors helped me better understand how SQL queries, cursors, and Android's SimpleCursorAdapter work together. I also learned the importance of always double-checking variable names if unsure. Overall, this enhancement gave me practical experience modifying an existing software project while maintaining its original functionality. The completed database enhancement demonstrates my growth in working with relational databases and integrating database functionality into an Android application.
 
-### Code Review
+<h4 id="code-review">Code Review</h4>
+
+***
+
 [Code Review on Youtube](https://youtu.be/hFeBRY2gtkk)
 
 This code review discusses the capstone artifacts prior to enhancement.
