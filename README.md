@@ -3,8 +3,10 @@ Personal ePortfolio gitHub Pages by Joanna Norris
 
 [https://joannanorris.github.io/ePortfolio/](url)
 
-Artifact 1: Software Design and Engineering
-CS 360 Mobile Inventory Application
-  The artifact I selected for the software design and engineering category is my Android Inventory Application, originally developed in CS-360: Mobile Architecture and Programming. The application was designed to help users manage inventory by allowing them to add, view, update, and delete inventory items stored in a local SQLite database. The original project also included a user authentication system, although portions of the login functionality were incomplete. For my capstone project, I improved the application's overall software design by completing the login logic, adding password encryption, adding a functional logout feature, and fully implementing the Create, Read, Update, and Delete (CRUD) operations so users could successfully manage inventory records through the application's interface.
-    I selected this artifact because it demonstrates several core software engineering principles, including user interface design, object oriented programming, event-driven programming, and database implementation all within an Android application. The enhancements showcase my ability to evaluate existing software, identify missing functionality, and implement improvements. Completing the authentication logic and CRUD functionality transformed the application from a partially completed assignment to a functional inventory management application.
-    This enhancement successfully met the course outcomes I identified in Module One by demonstrating my ability to analyze existing software, apply software engineering best practices, and improve the quality of an application through thoughtful design modifications. Throughout the enhancement process of all artifacts, I gained a greater appreciation for creating applications that are modular, maintainable, and scalable rather than simply functional. One of the greatest challenges was reconnecting with a project that I had not worked with for quite some time and understanding once again how everything worked together before making any changes. Working through these challenges strengthened my flexibility as a programmer, debugging skills, problem-solving, and software design skills.
+This ePortfolio contains two artifacts: a 3D nightstand scene created in C++ and a mobile inventory application written in Java.
+Both the old and new versions of the nightstand scene can be viewed by clicking the Computational-Graphic-And-Visualization-SNHU-main folder.
+The original version of the inventory application is held within Inventory-App-CS499-SNHU-master.
+The software design and engineering enhancements of the inventory application can be viewed in Inventory-App-CS499-SNHU-updatesCS499.
+The database enhancement of the inventory application can be viewed in Inventory-App-CS499-SNHU-dbUpdatesCS499.
+
+A professional self-assessment, code review, and artifact summaries are available on the published ePortfolio site linked above.
