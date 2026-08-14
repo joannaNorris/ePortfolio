@@ -63,4 +63,7 @@ Artifact 3: Software Design and Engineering CS 360 Mobile Inventory Application.
   The enhancement process taught me how interconnected the different parts of an application are. A change to the database often required corresponding changes to the database helper, adapter, activity, and user interface. One of the biggest challenges was troubleshooting SQLite and cursor errors. I encountered several crashes caused by column names and SQL queries that did not return the columns expected by the adapter. These errors helped me better understand how SQL queries, cursors, and Android's SimpleCursorAdapter work together. I also learned the importance of always double-checking variable names if unsure. Overall, this enhancement gave me practical experience modifying an existing software project while maintaining its original functionality. The completed database enhancement demonstrates my growth in working with relational databases and integrating database functionality into an Android application.
 
 ### Code Review
-[Code Review on Youtube] (https://youtu.be/hFeBRY2gtkk)
+[Code Review on Youtube](https://youtu.be/hFeBRY2gtkk)
+
+This code review discusses the capstone artifacts prior to enhancement.
+
